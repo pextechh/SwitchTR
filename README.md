@@ -72,6 +72,7 @@ Yamayı konsoldan tamamen kaldırmak için microSD kartınızdaki `atmosphere/co
 ## Yasal Uyarı
 
 Bu proje bağımsız bir yerelleştirme çalışmasıdır. Nintendo ve Nintendo Switch, Nintendo Co., Ltd.'nin tescilli ticari markalarıdır. Proje tamamen ücretsizdir ve ticari amaç taşımamaktadır.
+
 Son Sürümler Releases Kısmındadır.
 
 ### (c) Pasha Network LLC. 2025-2026. All Rights Reserved.
