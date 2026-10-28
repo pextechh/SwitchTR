@@ -3,6 +3,7 @@
 **Geliştirici:** Pasha Bey  
 **Hedef Platform:** Nintendo Switch (Atmosphère CFW)  
 **Desteklenen Son Sürüm** 23.0.1
+
 Bu proje, CFW (Atmosphère) yüklü Nintendo Switch konsollarının sistem arayüzünü Türkçe'ye çevirmek amacıyla **Pasha Bey** tarafından hazırlanmış yerelleştirme paketidir. 
 
 Atmosphère'in sunduğu **LayeredFS** mimarisini kullanır; konsolun orijinal sistem dosyalarına (NAND/eMMC) kalıcı bir müdahalede bulunmaz, tamamen güvenli ve istenildiği zaman kolayca kaldırılabilir yapıdadır.
